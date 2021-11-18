@@ -1,2 +1,2 @@
-# simFinanceToDo
-Sim Finance To Do App
+# smFinanceToDo
+Sm Finance To Do App
