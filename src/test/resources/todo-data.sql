@@ -1,0 +1,1 @@
+insert into to_do(todo_id, priority, name, description) values (1, 1, 'Task', 'Task Description');
